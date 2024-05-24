@@ -2,6 +2,7 @@
 
 # The Machine Learning Module <img src='https://github.com/jasp-stats/jaspMachineLearning/raw/master/inst/icons/analysis-ml-ribbon.svg' width='149' height='173' align='right'/>
 
+test ahead of branch
 Explore the relation between variables using data-driven methods for regression, classification, and clustering. The Machine Learning module provides a standardized graphical interface that unifies various `R` packages dedicated to machine learning. It enables training of predictive models, evaluation of their performance on separate holdout data and prediction of new data. This module encompasses an wide range of supervised and unsupervised learning models, and it streamlines the process of parameter optimization for nearly all models. Furthermore, it simplifies the task of dividing data into training, testing, and validation sets by providing a variety of data splitting methods. Finally, the module aims to provide insight into 'black box' machine learning models via model-agnostic exploration and explanation features.
 
 ## Blog posts
